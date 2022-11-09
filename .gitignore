@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.pdf
+W-NUT_data/
+W-NUT_data.zip
